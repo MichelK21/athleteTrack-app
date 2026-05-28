@@ -2,7 +2,7 @@
   <div class="container py-5">
 
     <h1 class="mb-4">
-      AthleteTracks Dashboard
+      AthleteTrack Dashboard
     </h1>
 
     <div class="row g-4">
